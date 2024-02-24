@@ -1,0 +1,8 @@
+{
+     "tag": "payRequest",
+     "callback": "https://www.anycoin.cz/api/lightning/lnurl/cb/c98f09e8-0c70-4889-a96d-668edd2c79f2",
+     "minSendable": 1000,
+     "maxSendable": 10000000000,
+     "commentAllowed": 100,
+     "metadata": "[[\"text/plain\",\"Platíte officiální stránce terside! Pokud chcete použít naše ln adresy můžete použít donate@cryptonpro.cs2resellers.com\"]]"
+}
